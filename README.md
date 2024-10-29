@@ -1,5 +1,5 @@
 # CLR-A_Novel_Task
-CLR-A_Novel_Task
+Contamination Robust Learning: A Novel Task for Geospatial Scene Classification
 ## Requirements
 - This codebase is written for `python3` and 'pytorch'.
 - To install necessary python packages, run `pip install -r requirements.txt`.
